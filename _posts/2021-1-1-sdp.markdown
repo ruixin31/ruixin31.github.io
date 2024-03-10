@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Multitask learning for citation purpose classification"
+year: 2021
+authors: Alex Oesterling*, Angikar Ghosal*, Haoyang Yu*, Rui Xin*, Yasa Baig*, Lesia Semenova, and Cynthia Rudin
+venue: Second Workshop on Scholarly Document Processing, NAACL
+arxiv: https://arxiv.org/abs/2106.13275
+code: 
+designation: 
+image:
+categories: research
+---
